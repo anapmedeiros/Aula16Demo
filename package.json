@@ -1,0 +1,11 @@
+{
+  "name": "teste-mobile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wdio": "npx wdio run ./wdio.conf.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
